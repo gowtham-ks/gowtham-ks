@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gowtham--ks.github.io-c8ff00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gowtham-ks.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-ks.gowtham283@gmail.com-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks.gowtham283@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-dark__knight._.28-9b5de5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.noxz_)
+[![Instagram](https://img.shields.io/badge/Instagram-_.naxz_-9b5de5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.noxz_)
 
 </div>
 
