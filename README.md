@@ -14,7 +14,7 @@
 
 ### 👋 Hey there!
 
-I'm a **2nd year AI & Data Science student** at Velalar College of Engineering and Technology, Erode. I build things for the web and I'm currently exploring the world of **cybersecurity** — learning how to create and secure at the same time.
+I'm a **3rd year AI & Data Science student** at Velalar College of Engineering and Technology, Erode. I build things for the web and I'm currently exploring the world of **cybersecurity** — learning how to create and secure at the same time.
 
 - 🎓 Studying **AI & Data Science** @ VCET, Erode
 - 🌐 Into **web development** — HTML, CSS, JS, PHP, MySQL
