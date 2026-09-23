@@ -43,7 +43,7 @@ I'm a **3rd year AI & Data Science student** at Velalar College of Engineering a
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🍛 South Spice](https://github.com/gowtham-ks/Food-Order-System) | Food ordering system with billing & animations | PHP, C, MySQL |
+| [🍛 South Spice](https://github.com/gowtham-ks/food_order_management) | Food ordering system with billing & animations | PHP, C, MySQL |
 | [📡 XENOVISION](https://github.com/gowtham-ks/XENOVISION) | Arduino + AI radar with live camera integration | Arduino, AI, Camera |
 
 ---
