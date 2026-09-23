@@ -19,7 +19,7 @@ I'm a **3rd year AI & Data Science student** at Velalar College of Engineering a
 - 🎓 Studying **AI & Data Science** @ VCET, Erode
 - 🌐 Into **web development** — HTML, CSS, JS, PHP, MySQL
 - 🔐 Currently learning **Cybersecurity**
-- 🤖 Experimenting with **AI/ML** and **Arduino**
+- 🤖 Experimenting with **AI/ML** and **IOT**
 - 📬 Reach me at **ks.gowtham283@gmail.com**
 
 ---
