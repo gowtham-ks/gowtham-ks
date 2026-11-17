@@ -44,22 +44,9 @@ I'm a **3rd year AI & Data Science student** at Velalar College of Engineering a
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🍛 South Spice](https://github.com/gowtham-ks/food_order_management) | Food ordering system with billing & animations | PHP, C, MySQL |
-| [eduvoice](https://github.com/gowtham-ks/eduvoice) | Anonymous student feedback where the server cannot link a feedback record to the student who wrote it
+| [eduvoice](https://github.com/gowtham-ks/eduvoice) | Anonymous student feedback where the server cannot link a feedback record to the student who wrote it | Python , ML , js|
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham-ks&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=c8ff00&icon_color=c8ff00&text_color=f0f0f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-ks&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=c8ff00&text_color=f0f0f0)
-
-</div>
-
----
-
-<div align="center">
 
 *"Learning every day, building one project at a time."* ⚡
 
